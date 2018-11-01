@@ -1,17 +1,16 @@
 # hello_app_ps1 
 
-**Description:**
->Simple application that prints "hello"when executed by powershell
+## Description
+Simple application that prints "hello" when executed by powershell
 
-**Notes:**
+### Notes
 >Tested and validated on *Ubuntu/Xenial64* OS
 
-**Uploaded files**
->Vagrant file - put it into empty newly created directory and execute ```vagrant up``` to get Ubuntu/Xenial64 OS with installed powershell
+## Using this repo
+- Clone this repo <command to clone here??>
+- Change directory in this repo <command to change dir here??>
+- Start the Virtual machine <command to start/create vm here??>
 
->scripts/powershell.sh - a simple script that installs powershell  during its execution
-
->test.sh - an app executed on powershell will print "hello"
-
-**App testing**
->Once you got the OS ready execute ```pwsh``` to start new powershell and test the app
+## Run the App
+- Connect to the VM <??how??>
+- Run the app <how?>
