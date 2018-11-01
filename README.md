@@ -4,7 +4,7 @@
 Simple application that prints "hello" when executed by powershell
 
 ### Notes
->Tested and validated on *Ubuntu/Xenial64* OS
+`Tested and validated on *Ubuntu/Xenial64* OS`
 
 ## Using this repo
 - Clone this repo: ```git clone git@github.com:galindonkov/hello_app_ps1.git```
