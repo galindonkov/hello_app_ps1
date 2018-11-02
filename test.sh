@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-out=$(pwsh hello.ps1)
+out=$(./hello.ps1)
 
 if [ $out == hello ]; then
 
