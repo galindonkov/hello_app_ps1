@@ -1,0 +1,7 @@
+language: generic
+dist: xenial
+sudo: required
+install:
+- bash scripts/powershell.sh
+script:
+- bash test.sh
